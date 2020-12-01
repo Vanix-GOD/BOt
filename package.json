@@ -1,0 +1,13 @@
+{
+    "name": "VΛПIX",
+    "version": "1.0.0",
+    "description": "This is VΛПIX's BOT",
+    "main": "VΛПIX.js",
+    "author": "TheNaman047",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
