@@ -14,9 +14,5 @@ bot.on('message', message =>{
             if(msg === prefix + "Hi" && message.channel.id === "575624302238498817"){
                 message.channel.send('Hello My Friend') // Sends a message to the channel, with the content
             }
-        }
-        }
-    }
-});
 
 bot.login(process.env.BOT_TOKEN)
