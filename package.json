@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "This is VΛПIX's BOT",
     "main": "VΛПIX.js",
-    "author": "TheNaman047",
+    "author": "",
     "scripts": {
         "start": "node bot.js"
     },
